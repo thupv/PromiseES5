@@ -1,0 +1,26 @@
+{
+  "name": "promises5",
+  "version": "1.0.0",
+  "description": "re-implement Promise for learning",
+  "main": "src/promise.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thupv/PromiseES5.git"
+  },
+  "author": "ThuPV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thupv/PromiseES5/issues"
+  },
+  "homepage": "https://github.com/thupv/PromiseES5#readme"
+}
